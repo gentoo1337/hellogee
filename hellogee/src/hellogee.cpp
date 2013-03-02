@@ -10,6 +10,12 @@
 using namespace std;
 
 int main() {
-	cout << "Hello World" << endl; // prints Hello World
+	int OP = 1;
+	if(OP=1) {
+	cout << "OP is a faggot" << endl;
+	}
+	else {
+	cout << "OP is not a faggot" << endl;	
+	}
 	return 0;
 }
